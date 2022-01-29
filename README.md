@@ -1,1 +1,1 @@
-# Machine-learning-clustering-Mall_Customers
+# Machine-learning-K-Means_clustering-Mall_Customers
